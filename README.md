@@ -192,5 +192,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or feedback, please reach out to [tal4456@gmail.com] or [vadvol1337@gmail.com].
+For any questions or feedback, please reach out to me at [vadvol1337@gmail.com].
 
